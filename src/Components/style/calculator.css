@@ -1,0 +1,197 @@
+.main-calculator-container{
+    width: 45%;
+    height: 600px;
+    background-color: #3a3b3c;
+    border-radius: 60px;
+}
+.another-main-container{
+    border: 1px solid black;
+    width: 51%;
+    margin: auto;
+    height: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    z-index: 1;
+    box-shadow: 2.5px 2.5px 4px 2px rgba(222,213,222,1);
+}
+.input-values{
+    width: 99%;
+    margin-top: 20px;
+    /* border: 1px solid blue; */
+}
+.input-values .input-value-one{
+    width: 98%;
+    border: none;
+    outline: none;
+    text-align: right;
+    font-size: 35px;
+    padding: 5px 0px;
+    color: #fff;
+    background-color: #3a3b3c;
+}
+.input-values .input-value-two{
+    width: 98%;
+    border: none;
+    outline: none;
+    text-align: right;
+    font-size: 25px;
+    padding: 5px 0px;
+    margin-bottom: 20px;
+    color: #fff;
+    background-color: #3a3b3c;
+}
+.btn{
+    width: 100%;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin: 10px 0px;
+}
+.btn-section-one button{
+    width: 55px;
+    margin: 0px 10px;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 18px 0px;
+    border-radius: 50%;
+    border: none;
+}
+.btn-section-two button{
+    width: 55px;
+    margin: 0px 10px;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 18px 0px;
+    border-radius: 50%;
+    border: none;
+}
+.btn-section-three button{
+    width: 55px;
+    margin: 0px 10px;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 18px 0px;
+    border-radius: 50%;
+    border: none;
+}
+.btn-section-four button{
+    width: 55px;
+    margin: 0px 10px;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 18px 0px;
+    border-radius: 50%;
+    border: none;
+}
+.btn-section-five button{
+    width: 55px;
+    margin: 0px 10px;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 18px 0px;
+    border-radius: 50%;
+    border: none;
+}
+.btn-section-one .AC{
+    background-color: lightblue;
+}
+.btn-section-one .del{
+    background-color: lightblue;
+}
+.btn-section-one .module{
+    background-color: lightblue;
+}
+.btn-section-one .division{
+    background-color: lightblue;
+}
+.btn-section-two .multiple{
+    background-color: lightblue;
+}
+.btn-section-three .sub{
+    background-color: lightblue;
+}
+.btn-section-four .add{
+    background-color: lightblue;
+}
+.btn-section-five .equal{
+    background-color: lightblue;
+}
+.btn-section-one .AC:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-one .del:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-one .module:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-one .division:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-two .seven:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-two .eight:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-two .nine:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-two .multiple:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-three .four:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-three .five:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-three .six:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-three .sub:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-four .one:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-four .two:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-four .three:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-four .add:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-five .double-zero:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-five .zero:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-five .dot:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
+.btn-section-five .equal:hover{
+    transform: rotateY(180deg);
+    transition: 0.3s ease-in-out;
+}
